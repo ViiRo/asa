@@ -4,7 +4,7 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("523827935011143680")
+let channel =     client.channels.get("530741175489921044")
 setInterval(function() {
 channel.send(`**Credit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit CreditCredit Credit**`);
 }, 30)
